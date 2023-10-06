@@ -1,2 +1,3 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# Pemrograman Mobile dengan Dart
+
+Repo ini berisi proyek pemrograman mobile yang dikembangkan selama kuliah dengan menggunakan bahasa pemrograman Dart.
